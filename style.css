@@ -17,12 +17,9 @@ body {
     border-style: solid;
     border-width: 1px;
     margin: 20px;
-    
+    padding: 20px;
 }
 .titles{    
-    text-align: center;
-}
-.text{
     text-align: center;
 }
 
